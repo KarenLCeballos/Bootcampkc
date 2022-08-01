@@ -4,3 +4,4 @@ Magento\Framework\Component\ComponentRegistrar::register(
     'KarenLCeballos_repositorioboot',
     __DIR__
 );
+
