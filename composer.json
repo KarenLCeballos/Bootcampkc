@@ -1,6 +1,6 @@
 {
     "name": "bootcampkc/holamundok",
-    "description": "Este modulo saluda al mundo amablemente",
+    "description": "Este modulo saluda al mundo amablementee",
     "require":{
       "php": ">=7.4"
     },
