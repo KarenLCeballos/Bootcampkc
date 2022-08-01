@@ -1,5 +1,5 @@
 {
-    "name": "bootcampkc/holamundok",
+    "name": "KarenLCeballos/repositorioboot",
     "description": "Este modulo saluda al mundo amablemente",
     "require":{
       "php": ">=7.4"
